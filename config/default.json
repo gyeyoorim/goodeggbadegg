@@ -1,6 +1,6 @@
 {
-    "appSecret": "35a78859ddaf2b6ac4ba94159dd62218",
-    "pageAccessToken": "EAAa4E7M65kABAKJNweOZA5MUDCPWbVMZBlZC7DSp3vOxSke56kOyI4S9JqNcQAHWIOZCDq5IRCDm3Uqe6m3Ek00A4WBC3mYrk1Dsv9gnqezK9WOA6loUn2y4x8PK7nSwabnfsT5QuDy0WnmZAqmFgwAxughh7adceUWCjEgYa9tGZCyWsbrfT2",
-    "validationToken": "verify_token",
-    "serverURL": "https://morning-fjord-89977.herokuapp.com/"
+    "appSecret": "389ccba2e925f615382de2fe2111ff35",
+    "pageAccessToken": "EAADwTKJ4dHABAJZAryYGVkKxDxmHa7rgADxlfTwlmFRMfaon2pOtHJNIYZA5Nda0LxoM5IOkdIGb9bZBJLvHf4ZCxM3T3rfuKfLloZCJkOZAcXs7nOWJuqY2KoABrdgXQATJ1cbSTqwYWdkxp3GQO7CWX6vk8szl2tndWyLyuvrnSBPj6C08FEug0RpZBEAhFYZD",
+    "validationToken": "MY_TOKEN",
+    "serverURL": "https://immense-brook-78240.herokuapp.com/"
 }
